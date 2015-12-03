@@ -13,9 +13,9 @@ function parseInputToPosChange(inputChar) {
   }
 }
 
-input = '>';
-input = '^>v<';
-input = '^v^v^v^v^v';
+// input = '>';
+// input = '^>v<';
+// input = '^v^v^v^v^v';
 
 var pos = {x: 0, y: 0};
 var visited = {'00': true};
